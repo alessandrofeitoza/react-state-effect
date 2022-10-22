@@ -1,0 +1,39 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Teclado mecanico",
+            "valor": 299.45,
+            "categoria": "Informatica",
+            "detalhes": "Teclado RGB Bla bla bla"
+        },
+        {
+            "id": 2,
+            "nome": "Mouse RGB",
+            "valor": 135.89,
+            "categoria": "Informatica",
+            "detalhes": "Mouse RGB Bla bla bla"
+        },
+        {
+            "id": 3,
+            "nome": "Monitor LED",
+            "valor": 1099.45,
+            "categoria": "Informatica",
+            "detalhes": "Monitor RGB Bla bla bla"
+        },
+        {
+            "id": 4,
+            "nome": "Cadeira Gamer",
+            "valor": 2299.45,
+            "categoria": "Moveis",
+            "detalhes": "Cadeira RGB Bla bla bla"
+        },
+        {
+            "id": 5,
+            "nome": "Apoio para os pés",
+            "valor": 49.19,
+            "categoria": "Moveis",
+            "detalhes": "Teclado RGB Bla bla bla"
+        }
+    ]
+}
